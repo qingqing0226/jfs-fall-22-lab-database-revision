@@ -59,12 +59,3 @@ category: A text field
 
 
 
-
-No touch, reserved (LÅT STÅ)
-Must be able to add a product to the cart
-Must be able to show all products in the cart
-Must be able to delete a product from the cart
-Must be able to decrease/increase the quantity of a product (by clicking - or +)
-Must be able to show details of a specific product (title, total_price, quantity, description)
-
-
